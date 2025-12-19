@@ -4,8 +4,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/cyprianabala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cyprianabala" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arkwings abala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arkwings abala" height="30" width="40" /></a>
-<a href="https://fb.com/arkwings cyprian abala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arkwings cyprian abala" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arkwingsabala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arkwingsabala" height="30" width="40" /></a>
+<a href="https://fb.com/arkwingscyprianabala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arkwingscyprianabala" height="30" width="40" /></a>
 <a href="https://instagram.com/arkwingscyprianabala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arkwingscyprianabala" height="30" width="40" /></a>
 <a href="https://medium.com/@arkwingscyprianabala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arkwingscyprianabala" height="30" width="40" /></a>
 </p>
