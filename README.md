@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hi, I’m Arkwings Cyprian Abala</h1>
 
-<h3 align="center">Junior Software Enginee</h3>
+<h3 align="center">Junior Software Engineer</h3>
 
 <p align="center">
   ✨ Backend-Focused • Problem Solver • Open to Opportunities 🌍 ✨<br/>
@@ -12,11 +12,21 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arkwings-abala-a45709242">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  <!-- Colorful clickable social icons using shields.io -->
+  <a href="https://www.linkedin.com/in/arkwings-abala-a45709242" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="40">
   </a>
-  <a href="https://github.com/arkwingscyprianabala">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  <a href="https://github.com/arkwingscyprianabala" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" height="40">
+  </a>
+  <a href="https://www.instagram.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-FC2779?style=for-the-badge&logo=instagram&logoColor=white" height="40">
+  </a>
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="40">
+  </a>
+  <a href="https://medium.com/@yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height="40">
   </a>
 </p>
 
@@ -31,11 +41,11 @@
 I’m a **Junior Software Engineer** passionate about building **robust backend systems** and **turning ideas into functional software**.  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💡_Problem_Solver-00BFFF?style=for-the-badge&logo=appveyor&logoColor=white" />
-  <img src="https://img.shields.io/badge/⚡_Fast_Learner-FF4500?style=for-the-badge&logo=appveyor&logoColor=white" />
-  <img src="https://img.shields.io/badge/🛠️_Hands-on_Coder-32CD32?style=for-the-badge&logo=appveyor&logoColor=white" />
-  <img src="https://img.shields.io/badge/🌱_Always_Learning-6A5ACD?style=for-the-badge&logo=appveyor&logoColor=white" />
-  <img src="https://img.shields.io/badge/🤝_Team_Player-FF69B4?style=for-the-badge&logo=appveyor&logoColor=white" />
+  <img src="https://img.shields.io/badge/💡_Problem_Solver-00BFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚡_Fast_Learner-FF4500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🛠️_Hands-on_Coder-32CD32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌱_Always_Learning-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤝_Team_Player-FF69B4?style=for-the-badge" />
 </p>
 
 💡 **What I do:**  
@@ -62,26 +72,21 @@ I’m a **Junior Software Engineer** passionate about building **robust backend 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-
-  <!-- Backend -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask" />
-
-  <!-- Databases & Caching -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-
-  <!-- Frontend -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/EJS-000000?style=for-the-badge" />
-
-  <!-- Tools & Concepts -->
   <img src="https://img.shields.io/badge/Git-FF0000?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/REST_API-007ACC?style=for-the-badge" />
@@ -133,14 +138,23 @@ A full-featured blogging platform built from scratch to demonstrate **real backe
 
 ## 🤝 Let’s Connect
 
-I’m always open to:  
-- 🤝 Collaboration  
-- 💼 Job & internship opportunities  
-- 📫 Technical discussions  
-
-**Links**  
-- LinkedIn: https://www.linkedin.com/in/arkwings-abala-a45709242  
-- GitHub: https://github.com/arkwingscyprianabala  
+<p align="center">
+  <a href="https://www.linkedin.com/in/arkwings-abala-a45709242" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/arkwingscyprianabala" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/yourusername" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-FC2779?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img alt="X" src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://medium.com/@yourusername" target="_blank">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white">
+  </a>
+</p>
 
 <p align="center">
   <em>“Improving every day. No zero days.”</em>
