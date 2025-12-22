@@ -57,17 +57,17 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://www.instagram.com/yourusername" target="_blank">
+        <a href="https://www.instagram.com/arkwingscyprianabala" target="_blank">
           <img src="https://img.shields.io/badge/📷_Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
         </a>
       </td>
       <td align="center">
-        <a href="https://twitter.com/yourusername" target="_blank">
+        <a href="https://x.com/CyprianAbala" target="_blank">
           <img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
         </a>
       </td>
       <td align="center">
-        <a href="https://medium.com/@yourusername" target="_blank">
+        <a href="https://medium.com/@arkwingscyprianabala" target="_blank">
           <img src="https://img.shields.io/badge/✍️_Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" />
         </a>
       </td>
