@@ -424,16 +424,16 @@
   <a href="https://github.com/arkwingscyprianabala" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40">
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:arkwingscyprianabala@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40">
   </a>
-  <a href="https://www.instagram.com/yourusername" target="_blank">
+  <a href="https://www.instagram.com/arkwingscyprianabala" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40">
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
+  <a href="https://x.com/CyprianAbala" target="_blank">
     <img alt="X (Twitter)" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="40">
   </a>
-  <a href="https://medium.com/@yourusername" target="_blank">
+  <a href="https://medium.com/@arkwingscyprianabala" target="_blank">
     <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="40">
   </a>
   
