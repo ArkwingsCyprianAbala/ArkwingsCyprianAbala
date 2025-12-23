@@ -57,17 +57,17 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://www.instagram.com/arkwingscyprianabala" target="_blank">
+        <a href="https://www.instagram.com/yourusername" target="_blank">
           <img src="https://img.shields.io/badge/📷_Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
         </a>
       </td>
       <td align="center">
-        <a href="https://x.com/CyprianAbala" target="_blank">
+        <a href="https://twitter.com/yourusername" target="_blank">
           <img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
         </a>
       </td>
       <td align="center">
-        <a href="https://medium.com/@arkwingscyprianabala" target="_blank">
+        <a href="https://medium.com/@yourusername" target="_blank">
           <img src="https://img.shields.io/badge/✍️_Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" />
         </a>
       </td>
@@ -269,7 +269,7 @@
     </div>
   </td>
 
-  <td width="25%">
+  <!-- <td width="25%">
     <div align="center" style="padding: 10px;">
       <h4 align="center">📱 E-Commerce</h4>
       <img src="https://images.pexels.com/photos/5632371/pexels-photo-5632371.jpeg?auto=compress&cs=tinysrgb&w=600" width="100%" alt="E-Commerce Platform" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.25); object-fit: cover; height: 200px;" />
@@ -280,7 +280,7 @@
       </p>
       <a href="https://github.com/arkwingscyprianabala/ecommerce"><img src="https://img.shields.io/badge/View-000000?style=flat-square&logo=github&logoColor=white"></a>
     </div>
-  </td>
+  </td> -->
 </tr>
 </table>
 
@@ -424,16 +424,16 @@
   <a href="https://github.com/arkwingscyprianabala" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40">
   </a>
-  <a href="mailto:arkwingscyprianabala@gmail.com" target="_blank">
+  <a href="mailto:your.email@example.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40">
   </a>
-  <a href="https://www.instagram.com/arkwingscyprianabala" target="_blank">
+  <a href="https://www.instagram.com/yourusername" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40">
   </a>
-  <a href="https://x.com/CyprianAbala" target="_blank">
+  <a href="https://twitter.com/yourusername" target="_blank">
     <img alt="X (Twitter)" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="40">
   </a>
-  <a href="https://medium.com/@arkwingscyprianabala" target="_blank">
+  <a href="https://medium.com/@yourusername" target="_blank">
     <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="40">
   </a>
   
